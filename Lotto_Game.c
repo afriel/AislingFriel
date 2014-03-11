@@ -7,7 +7,7 @@
     Date: 14th March 2012
     Author: Aisling Friel
 */
-
+//test 1 from github.com
 #include <stdio.h> 
 #include <conio.h>
 #define ROW 6 //for array of lotto numbers
