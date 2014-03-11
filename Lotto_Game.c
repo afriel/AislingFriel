@@ -7,6 +7,7 @@
     Date: 14th March 2012
     Author: Aisling Friel
 */
+//test2 from github client
 
 #include <stdio.h> 
 #include <conio.h>
